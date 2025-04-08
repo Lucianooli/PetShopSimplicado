@@ -1,2 +1,21 @@
-# PetShopSimplicado
-✅ Funcionalidades: Cadastrar animais com nome e raça  Cadastrar serviços com nome e preço  Listar animais e serviços registrados  Comprar serviços para os pets  Salvamento automático em arquivos animais.txt e servicos.txt  💻 Tecnologias usadas: Java (sem frameworks)  Interface com o usuário via JOptionPane  Leitura/escrita de arquivos .txt
+# 🐶 PetShop Interativo em Java
+
+Este é um sistema de PetShop feito em **Java puro**, com interface gráfica simples via `JOptionPane`, ideal para aprendizado de programação orientada a objetos e manipulação de arquivos.
+
+---
+
+## 📌 Funcionalidades
+
+- ✅ Cadastrar **animais** (nome e raça)
+- ✅ Cadastrar **serviços** (nome e preço)
+- ✅ Listar todos os **animais cadastrados**
+- ✅ Listar todos os **serviços disponíveis**
+- ✅ **Comprar serviços** para os pets
+- 💾 **Persistência de dados** automática usando arquivos `.txt`
+
+---
+
+## 🧾 Exemplo de Uso
+
+Ao executar o programa, será exibido um menu com as opções:
+
